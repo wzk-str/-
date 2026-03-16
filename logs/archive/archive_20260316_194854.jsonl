@@ -1,0 +1,13 @@
+{"source_file": "logs\\raw\\app.log", "line_number": 1, "content": "2024-01-15 10:30:00 INFO Application started successfully", "timestamp": "2026-03-16 19:48:54"}
+{"source_file": "logs\\raw\\app.log", "line_number": 3, "content": "2024-01-15 10:30:10 INFO Processing request #12345", "timestamp": "2026-03-16 19:48:54"}
+{"source_file": "logs\\raw\\app.log", "line_number": 5, "content": "2024-01-15 10:30:15 ERROR Connection timeout", "timestamp": "2026-03-16 19:48:54"}
+{"source_file": "logs\\raw\\app.log", "line_number": 6, "content": "2024-01-15 10:30:20 WARN Deprecated API usage detected", "timestamp": "2026-03-16 19:48:54"}
+{"source_file": "logs\\raw\\app.log", "line_number": 7, "content": "2024-01-15 10:30:25 INFO Request completed", "timestamp": "2026-03-16 19:48:54"}
+{"source_file": "logs\\raw\\app.log", "line_number": 9, "content": "Normal log line here", "timestamp": "2026-03-16 19:48:54"}
+{"source_file": "logs\\raw\\system.txt", "line_number": 1, "content": "System Log File", "timestamp": "2026-03-16 19:48:54"}
+{"source_file": "logs\\raw\\system.txt", "line_number": 2, "content": "2024-03-10 08:00:00 INFO System boot initiated", "timestamp": "2026-03-16 19:48:54"}
+{"source_file": "logs\\raw\\system.txt", "line_number": 5, "content": "2024-03-10 08:00:10 INFO Hardware check passed", "timestamp": "2026-03-16 19:48:54"}
+{"source_file": "logs\\raw\\system.txt", "line_number": 6, "content": "2024-03-10 08:00:15 INFO Loading kernel modules", "timestamp": "2026-03-16 19:48:54"}
+{"source_file": "logs\\raw\\system.txt", "line_number": 8, "content": "Some empty lines above should be removed", "timestamp": "2026-03-16 19:48:54"}
+{"source_file": "logs\\raw\\system.txt", "line_number": 9, "content": "This is a normal line", "timestamp": "2026-03-16 19:48:54"}
+{"source_file": "logs\\raw\\system.txt", "line_number": 11, "content": "Final line without timestamp", "timestamp": "2026-03-16 19:48:54"}

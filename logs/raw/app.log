@@ -1,0 +1,9 @@
+2024-01-15T10:30:00 INFO Application started successfully
+2024-01-15T10:30:05 DEBUG This is a debug message that should be filtered
+2024-01-15T10:30:10 INFO Processing request #12345
+
+2024-01-15T10:30:15 ERROR Connection timeout
+2024/01/15 10:30:20 WARN Deprecated API usage detected
+2024-01-15 10:30:25 INFO Request completed
+DEBUG This line starts with DEBUG and should be filtered
+Normal log line here
