@@ -1,0 +1,11 @@
+System Log File
+2024-03-10 08:00:00 INFO System boot initiated
+
+2024-03-10 08:00:05 DEBUG Initializing hardware
+2024-03-10 08:00:10 INFO Hardware check passed
+2024-03-10 08:00:15 INFO Loading kernel modules
+
+Some empty lines above should be removed
+This is a normal line
+DEBUG Another debug line to filter
+Final line without timestamp
