@@ -1,0 +1,5 @@
+﻿2026-03-16 10:00:00 INFO Application started
+2026-03-16 10:00:01 DEBUG This is a debug message
+2026-03-16 10:00:02 WARNING Low disk space
+
+2026-03-16 10:00:03 ERROR Connection failed
