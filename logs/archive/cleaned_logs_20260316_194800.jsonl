@@ -1,0 +1,4 @@
+{"content": "﻿This is a text file", "source_file": "notes.txt"}
+{"content": "﻿2026-03-16 10:00:00 INFO Application started", "source_file": "test.log"}
+{"content": "2026-03-16 10:00:02 WARNING Low disk space", "source_file": "test.log"}
+{"content": "2026-03-16 10:00:03 ERROR Connection failed", "source_file": "test.log"}
